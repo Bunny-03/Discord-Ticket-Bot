@@ -1,8 +1,7 @@
 # 🎫 Ticket Bot
 
 ## ❔ About
-This is a simple ticket bot created by `zhon12345` under 24 hours. It is coded in [Goorm IDE](https://ide.goorm.io/) using [Node.js](https://nodejs.org/en/) and [Discord.js](https://discord.js.org). The code is not thoroughly checked for errors so if you do find errors please report them by [submitting a issue](https://github.com/zhon12345/Ticket-Bot/issues/new).
-
+This is a simple ticket bot created by `INCASX丶Bunny#6229`
 ## 💬 Commands
 + Info
 
@@ -32,7 +31,4 @@ remove | Removes a member to a specified ticket.
 transcript | Trascripts a specified ticket.
 
 ## 🙋‍♂️ Contributing
-If you would like t contribute, please fork this repository and submit a pull request! You can also join the [Discord server](https://discord.gg/jMpw3jw) or contact me directly on discord at `zhon12345#8585`. Anyone is welcome to suggest new features and improve code quality!
-
-## 📄 License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/zhon12345/Tavern_Keeper/blob/master/LICENSE) file for details.
+If you would like to contribute, please fork this repository and submit a pull request!  or contact me directly on discord at `INCASX丶Bunny#6229`. Anyone is welcome to suggest new features and improve code quality!
