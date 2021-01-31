@@ -35,7 +35,7 @@ module.exports = {
 				.setFooter(`Requested by ${message.author.tag} `)
 				.setTimestamp()
 				.setTitle('Bot Information')
-				.addField('<:documents:773950876347793449> General ❯', [
+				.addField('General ❯', [
 					`> **<:card:773965449402646549> Bot Name: \`${client.user.tag}\`**`,
 					`> **\\📇 Bot ID: \`${client.user.id}\`**`,
 					`> **\\👑 Bot Owner: \`${client.users.cache.get(BOT_OWNER).tag}\`**`,
@@ -46,7 +46,7 @@ module.exports = {
 					`> **\\📅 Created: \`${moment(client.user.createdTimestamp).format('MMMM Do YYYY, h:mm:ss')}\` | \`${Math.floor((Date.now() - client.user.createdTimestamp) / 86400000)}\` day(s) ago**`,
 					'\u200b',
 				])
-				.addField('<:documents:773950876347793449> System ❯', [
+				.addField('System ❯', [
 					`> **<:online:745651877382717560> Uptime: ${parseDur(client.uptime)}**`,
 					`> **<:nodejs:773599989724348448> Node.js: \`${process.version}\`**`,
 					`> **<:djs:773599989833400371> Discord.js: \`v${djsversion}\`**`,
