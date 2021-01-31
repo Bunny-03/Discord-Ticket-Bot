@@ -1,4 +1,4 @@
-# 🎫 Ticket Bot
+# Ticket Bot
 
 ## ❔ About
 This is a simple ticket bot created by `INCASX丶Bunny#6229` Create .env and add BOT_TOKEN and BOT_PREFIX
