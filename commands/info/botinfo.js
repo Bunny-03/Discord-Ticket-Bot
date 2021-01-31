@@ -1,7 +1,6 @@
 const { MessageEmbed, version: djsversion } = require("discord.js");
 const { formatBytes, parseDur } = require("../../functions.js");
 const cpuStat = require("cpu-stat");
-const { BOT_OWNER } = process.env;
 const moment = require("moment");
 const os = require("os");
 
