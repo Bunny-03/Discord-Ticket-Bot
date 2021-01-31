@@ -4,7 +4,7 @@ module.exports = async (client) => {
 	const botStatus = [
 		`Bot Coded by INCASX丶Bunny#6229`,
 		`${client.users.cache.size} Users`,
-		`${client.guilds.cache.size} Servers`,
+		`${client.guilds.cache.size} Servers`
 	];
 
 	setInterval(function() {
