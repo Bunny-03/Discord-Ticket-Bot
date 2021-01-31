@@ -23,7 +23,6 @@ delete | Delete a specified ticket.
 new | Creates a new ticket.
 open | Re-opens a ticket.
 remove | Removes a member to a specified ticket.
-transcript | Trascripts a specified ticket.
 
 ## 🙋‍♂️ Contributing
 If you would like to contribute, please fork this repository and submit a pull request!  or contact me directly on discord at `INCASX丶Bunny#6229`. Anyone is welcome to suggest new features and improve code quality!
