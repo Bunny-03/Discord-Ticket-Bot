@@ -2,6 +2,7 @@ const { BOT_PREFIX } = process.env;
 
 module.exports = async (client) => {
 	const botStatus = [
+		`Bot Coded by INCASX丶Bunny#6229`,
 		`${client.users.cache.size} Users`,
 		`${client.guilds.cache.size} Servers`,
 	];
