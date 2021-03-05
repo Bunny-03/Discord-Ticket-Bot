@@ -18,7 +18,7 @@ module.exports = {
   name: "botinfo",
   category: "Info",
   description: "Displays indept information about the bot.",
-  aliases: ["bot", "bi"],
+  aliases: ["bot", "botinfo"],
   usage: "botinfo",
   userperms: [],
   botperms: ["USE_EXTERNAL_EMOJIS"],
